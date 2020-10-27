@@ -10,6 +10,7 @@ function App() {
         <p>
           create by @trihariyadi
         </p>
+        <p>See my github at <a href="https://github.com/tri-hariyadi/helloheroku">Github.com</a></p>
       </header>
     </div>
   );
